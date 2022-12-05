@@ -1,4 +1,5 @@
 big-O==0.10.2
+jupyter-contrib-nbextensions==0.7.0
 matplotlib==3.6.2
 networkx==2.8.8
 notebook==6.5.2
